@@ -13,7 +13,7 @@ import edu.kh.model.vo.CafeMenuOrder;
 public class CafeMenuService {
 	
 	private Scanner sc = new Scanner(System.in);
-	
+
 	private List<CafeMenu> cafeMenuList = new ArrayList<CafeMenu>();
 	private List<CafeMenuOrder> cafeMenuOrderList = new ArrayList<CafeMenuOrder>();
 	

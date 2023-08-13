@@ -9,6 +9,7 @@ public class CafeMenuRun {
 		CafeMenuService service = new CafeMenuService();
 		
 		service.displayMenu();
+		
 	}
 
 }
